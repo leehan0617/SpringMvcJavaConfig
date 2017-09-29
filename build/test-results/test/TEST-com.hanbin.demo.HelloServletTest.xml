@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hanbin.demo.HelloServletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-29T06:36:59" hostname="user-PC" time="0.426">
+  <properties/>
+  <testcase name="doPostWithoutName" classname="com.hanbin.demo.HelloServletTest" time="0.425"/>
+  <testcase name="doGet" classname="com.hanbin.demo.HelloServletTest" time="0.001"/>
+  <testcase name="doPostWithName" classname="com.hanbin.demo.HelloServletTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
